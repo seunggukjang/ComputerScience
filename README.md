@@ -42,5 +42,5 @@ struct FILE{
 ### 6장 함수형 프로그래밍
 
 > * 불변성과 아키텍처 : race condition, deadlock, concurrent update문제가 모두 가변 변수로 발생하는데 함수형 프로그래밍은 변수가 변경되지 않는다.
-> 
+> * 가변성의 분리: 가변 컴포넌트와 트랜잭션 메모리로 분리
 > 
